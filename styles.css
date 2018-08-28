@@ -1,0 +1,175 @@
+/*#go_to_console {
+	background: #FBBC05;
+	height: 128px;
+	width: 358px;
+	text-align: center;
+}
+
+.go_to_console {
+	font-family: 'Roboto', sans-serif;
+	font-size: 29px;
+	padding: 25px 50px;
+	background: #1A73E8;
+	color: #fff;
+	border-radius: 9px;
+	margin-top: 18px;
+}
+*/
+
+h1 {
+	margin-left: 70px;
+}
+
+#go_to_console {
+	background: #FBBC05;
+	width: 179px;
+	height: 64px;
+}
+
+.go_to_console {
+	font-family: 'Roboto', sans-serif;
+	font-size: 14px;
+	padding: 13px 25px;
+	background: #1A73E8;
+	color: #fff;
+	border-radius: 4px;
+	margin: 10px 8px;
+	letter-spacing: 0.3px;
+}
+
+#get_started {
+	width: 175px;
+	height:74px;
+}
+
+.get_started {
+	color: #7953b2;
+	border: 1px solid #7953b2;
+	padding: 17px 29px;
+	margin: 9px 11px;
+	border-radius: 5px;
+	font-size: 20px;
+	font-weight: 500;
+	letter-spacing: -0.5px;
+}
+
+.exp, .sell, .sign, .change, .login, .check, .visit {
+	border: 1px dotted black;
+}
+
+#explore {
+	width:  268px;
+	height: 81px;
+}
+
+.explore {
+	background: #48B882;
+	border-radius: 30px;
+	color: #F2FEF9;
+	font-size: 15px;
+	padding: 17px 31px;
+	margin: 12px 18px;
+	letter-spacing: 0.2px;
+}
+
+#selling {
+	width: 232px;
+	height: 67px;
+}
+
+.selling {
+	color: #5B6AC4;
+	border: 2px solid #5B6AC4;
+	border-radius: 5px;
+	font-size: 16px;
+	font-weight: bold;
+	padding: 11px 27px;
+	margin: 10px 12px;
+	letter-spacing: 0.1px;
+}
+
+#sign_up {
+	width: 99px;
+	height: 51px;
+}
+
+.sign_up {
+	background: #F9492C;
+	color: #FFFFFF;
+	font-size: 13px;
+	font-family: 'Open Sans', sans-serif;
+	border-radius: 4px;
+	padding: 9px 19px;
+	letter-spacing: 0.4px;
+	font-weight: bold;
+	margin: 6px 4px;
+}
+
+#change_btn {
+	width: 93px;
+	height: 43px;
+}
+
+.change_btn {
+	color: #8D6FAD;
+	font-size: 12px;
+	font-family: 'Open Sans', sans-serif;
+	padding: 3px 11px;
+	margin: 9px 8px;
+	border-radius: 4px;
+	border: 1px solid #AF9BC6;
+	font-weight: 600;
+	letter-spacing: 0.2px;
+}
+
+#log_in {
+	width: 89px;
+	height: 47px;
+}
+
+.log_in {
+	color: #666666;
+	border: 1px solid #B8B8B8;
+	border-radius: 4px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 14px;
+	letter-spacing: 0.3px;
+	padding: 8px 17px;
+	margin: 5px;
+}
+
+#check_out {
+	width: 266px;
+	height: 80px;
+	background: #FEFEFE;
+}
+
+.check_out {
+	color: #fff;
+	font-size: 15px;
+	border-radius: 5px;
+	background: #1C9AF7;
+	box-shadow: 0px 9px 1px -1px #0B80D7;
+	padding: 11px 40px;
+	letter-spacing: 0.3px;
+	margin: 12px 6px;
+}
+
+#visit_us {
+	width: 159px;
+	height: 63px;
+
+}
+
+.visit_us {
+	font-size: 15px;
+	border-radius: 40px;
+	background: #259cf5;
+	color: #fff;
+	font-weight: 400;
+	margin: 11px 9px;
+	padding: 11px 41px;
+	box-shadow: 1px 2px 1px -1px #078ef0 inset;
+	letter-spacing: -0.1px;
+}
